@@ -1,0 +1,25 @@
+body {
+  background: #3c3b40;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+.main{
+  background-color: #c0c0c0;
+  color: #383838;
+  padding: 10px;
+}
+h1 {text-align: center;
+   padding: 10px 0 10px 0;
+   margin: 5px 0 5px 0;}
+p h3 {
+  text-align: left;
+  padding: 10px 0px px 0px;
+  margin: 5px 0px 5px 0px;
+  width: 300px;
+}
+.link {
+  text-decoration: none;
+  font-weight: bold;
+}
